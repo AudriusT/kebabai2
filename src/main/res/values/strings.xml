@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kebabai</string>
+    <string name="app_title">Kebabai į namus</string>
+    <string name="phone_hint">Vartotojo vardas</string>
+    <string name="textPassword">Slaktažodis</string>
+    <string name="registar_name">Registracija</string>
+    <string name="login_name">Prisijungti</string>
+    <string name="textSearch">Ieškoti</string>
+    <string name="textEmail">El.paštas</string>
+    <string name="register">Registruotis</string>
+    <string name="textusername">Vardas</string>
+</resources>
